@@ -1,6 +1,6 @@
 ## NO Boom
 
-#NO boom gets rid of the particles from a bomb when you hit it good for people who record or who get distracted easy!
+NO boom gets rid of the particles from a bomb when you hit it good for people who record or who get distracted easy!
 
 ## Credits
 
